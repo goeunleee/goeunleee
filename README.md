@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### e-mail : glee22771@gmail.com
 <div align=left>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoeunleee&count_bg=%2321E1B6&title_bg=%236DF0E4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fgoeunleee&count_bg=%2321E1B6&title_bg=%236DF0E4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!--
