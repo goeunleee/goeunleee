@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto)
-<h1 align="center">Hi 👋, I'm Goeun Lee</h1>
+<h1 align="left">Hi 👋, I'm Goeun Lee</h1>
 - 📫 How to reach me **glee22771@gmail.com**
 
 
