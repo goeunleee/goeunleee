@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Hello!%Im%Lee Goeun)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Hello!)
 ### Hi there 👋
 ### e-mail : glee22771@gmail.com
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoeunleee&count_bg=%23AFB8B5&title_bg=%2374BBE6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
