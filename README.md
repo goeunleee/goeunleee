@@ -3,11 +3,11 @@
 <h5 align="left">📫 How to reach me : glee22771@gmail.com</h5>
 
 
+- https://goeunleee.github.io/pokemon_catch : 포켓몬 상성 판별기 (React)
+- https://github.com/goeunleee/SimpleCrochetCounter : 코바늘 단수 세기 (flutter )
 - https://github.com/goeunleee/Trade_data_analysis : AI를 활용한 데이터 예측 및 공공 데이터 시각화 (django, tensorflow, pandas, chart.js)
 - https://github.com/goeunleee/saejul :  회의록 문서화 프로그램 (django, mysql) 
 - https://github.com/goeunleee/corona_trand_analysis : 공공데이터를 활용한 covid-19 현황 분석 웹 프로젝트 (flask, pandas, chart.js)
-- https://goeunleee.github.io/pokemon_catch : 포켓몬 상성 판별기 (React)
-- https://github.com/goeunleee/SimpleCrochetCounter : 코바늘 단수 세기 (flutter )
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
