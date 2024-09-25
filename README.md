@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto)
 <h1 align="left">Hi 👋, I'm Goeun Lee</h1>
-<h3 align="left">📫 email : goeun3501@gmail.com</h3>
-<h3 align="left">📫 기술 블로그 : https://house-of-ham.tistory.com/</h3>
+<h4 align="left">📫 email : goeun3501@gmail.com</h4>
+<h4 align="left">🏠 기술 블로그 : https://house-of-ham.tistory.com/</h4>
 
 - https://goeunleee.github.io/pokemon_catch : 포켓몬 상성 판별기 (React)
 - https://github.com/goeunleee/SimpleCrochetCounter : 코바늘 단수 세기 (flutter )
